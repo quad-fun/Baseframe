@@ -1,0 +1,26 @@
+# Compiled Output
+*.json
+*.abi
+*.bin
+*.bin-runtime
+*.clif
+*.abi.go
+*.debug
+*.optimized
+
+# Dependency directories
+node_modules/
+.truffle/
+
+# Local Ethereum network
+/.ethereum/
+
+# Coverage directory
+/coverage/
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Other
+.DS_Store
